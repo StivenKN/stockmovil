@@ -1,0 +1,16 @@
+{
+  "arrowParens": "always",
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  "embeddedLanguageFormatting": "auto",
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "semi": false,
+  "tabWidth": 2,
+  "useTabs": false,
+  "trailingComma": "none",
+  "singleQuote": true,
+  "singleAttributePerLine": true
+}
